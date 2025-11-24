@@ -1,0 +1,186 @@
+# 祝日は https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html から取得する。
+
+[[holiday]]
+name = "元日"
+holiday = "2025-01-01"
+holiday_note = ""
+
+[[holiday]]
+name = "成人の日"
+holiday = "2025-01-13"
+holiday_note = ""
+
+[[holiday]]
+name = "建国記念の日"
+holiday = "2025-02-11"
+holiday_note = ""
+
+[[holiday]]
+name = "天皇誕生日"
+holiday = "2025-02-23"
+holiday_note = ""
+
+[[holiday]]
+name = "振替休日"
+holiday = "2025-2-24"
+holiday_note = "祝日法第3条第2項による休日"
+
+[[holiday]]
+name = "春分の日"
+holiday = "2025-03-20"
+holiday_note = ""
+
+[[holiday]]
+name = "昭和の日"
+holiday = "2025-04-29"
+holiday_note = ""
+
+[[holiday]]
+name = "憲法記念日"
+holiday = "2025-05-03"
+holiday_note = ""
+
+[[holiday]]
+name = "みどりの日"
+holiday = "2025-05-04"
+holiday_note = ""
+
+[[holiday]]
+name = "こどもの日"
+holiday = "2025-05-05"
+holiday_note = ""
+
+[[holiday]]
+name = "振替休日"
+holiday = "2025-05-06"
+holiday_note = "祝日法第3条第2項による休日"
+
+[[holiday]]
+name = "海の日"
+holiday = "2025-07-21"
+holiday_note = ""
+
+[[holiday]]
+name = "山の日"
+holiday = "2025-08-11"
+holiday_note = ""
+
+[[holiday]]
+name = "敬老の日"
+holiday = "2025-09-15"
+holiday_note = ""
+
+[[holiday]]
+name = "秋分の日"
+holiday = "2025-09-23"
+holiday_note = ""
+
+[[holiday]]
+name = "スポーツの日"
+holiday = "2025-10-13"
+holiday_note = ""
+
+[[holiday]]
+name = "文化の日"
+holiday = "2025-11-03"
+holiday_note = ""
+
+[[holiday]]
+name = "勤労感謝の日"
+holiday = "2025-11-23"
+holiday_note = ""
+
+[[holiday]]
+name = "振替休日"
+holiday = "2025-11-24"
+holiday_note = "祝日法第3条第2項による休日"
+
+[[holiday]]
+name = "元日"
+holiday = "2026-01-01"
+holiday_note = ""
+
+[[holiday]]
+name = "成人の日"
+holiday = "2026-01-12"
+holiday_note = ""
+
+[[holiday]]
+name = "建国記念の日"
+holiday = "2026-02-11"
+holiday_note = ""
+
+[[holiday]]
+name = "天皇誕生日"
+holiday = "2026-02-23"
+holiday_note = ""
+
+[[holiday]]
+name = "春分の日"
+holiday = "2026-03-20"
+holiday_note = ""
+
+[[holiday]]
+name = "昭和の日"
+holiday = "2026-04-29"
+holiday_note = ""
+
+[[holiday]]
+name = "憲法記念日"
+holiday = "2026-05-03"
+holiday_note = ""
+
+[[holiday]]
+name = "みどりの日"
+holiday = "2026-05-04"
+holiday_note = ""
+
+[[holiday]]
+name = "こどもの日"
+holiday = "2026-05-05"
+holiday_note = ""
+
+[[holiday]]
+name = "振替休日"
+holiday = "2026-05-06"
+holiday_note = "祝日法第3条第2項による休日"
+
+[[holiday]]
+name = "海の日"
+holiday = "2026-07-20"
+holiday_note = ""
+
+[[holiday]]
+name = "山の日"
+holiday = "2026-08-11"
+holiday_note = ""
+
+[[holiday]]
+name = "敬老の日"
+holiday = "2026-09-21"
+holiday_note = ""
+
+[[holiday]]
+name = "振替休日"
+holiday = "2026-09-22"
+holiday_note = "祝日法第3条第3項による休日"
+
+[[holiday]]
+name = "秋分の日"
+holiday = "2026-09-23"
+holiday_note = ""
+
+[[holiday]]
+name = "スポーツの日"
+holiday = "2026-10-12"
+holiday_note = ""
+
+[[holiday]]
+name = "文化の日"
+holiday = "2026-11-03"
+holiday_note = ""
+
+[[holiday]]
+name = "勤労感謝の日"
+holiday = "2026-11-23"
+holiday_note = ""

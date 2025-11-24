@@ -1,0 +1,47 @@
+# repeat
+# 　月初　　　　月の第1営業日
+# 　毎日　　　　前営業日
+# 　毎週◯曜日　毎週特定の曜日のタスク（休みのときは前日）
+# 　月末　　　　月の最終営業日
+# time
+# 　開始、終了時間を記載。"10:00-"、"10:00-11:00"など
+# estimated_time
+# 　予測時間（予定工数）
+# project
+# 　プロジェクト名
+# task_name
+# 　タスク名
+# task_note
+# 　備考
+
+[[task]]
+repeat = "月初"
+time = ""
+estimated_time = "0.5"
+project = "プロジェクト名"
+task_name = "繰り返しタスク作成"
+task_note = "備考"
+
+[[task]]
+repeat = "毎日"
+time = "10:30-11:00"
+estimated_time = "0.5"
+project = "プロジェクト名"
+task_name = "【MTG】チーム朝会"
+task_note = ""
+
+[[task]]
+repeat = "毎週木曜日"
+time = "18:00"
+estimated_time = ""
+project = "プロジェクト名"
+task_name = "割り込み作業報告"
+task_note = ""
+
+[[task]]
+repeat = "月末"
+time = "18:00"
+estimated_time = ""
+project = "プロジェクト名"
+task_name = "勤怠の締め"
+task_note = ""
